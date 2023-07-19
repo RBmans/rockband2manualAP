@@ -88,7 +88,6 @@
 	{ "name": "Performance Mode", "count": 5, "category": ["Traps"], "trap": true },
 	{ "name": "Track Speed 1", "count": 10, "category": ["Traps"], "trap": true },
 	{ "name": "Track Speed 10", "count": 10, "category": ["Traps"], "trap": true },
-	{ "name": "Track Speed 10", "count": 10, "category": ["Traps"], "trap": true },
 	{ "name": "Money", "count": 90 },
 	{ "name": "Overdrive", "category": ["Gameplay"], "useful": true },
 	{ "name": "Hyper Speed", "category": ["Gameplay"], "useful": true }
