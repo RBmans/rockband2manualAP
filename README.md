@@ -3,7 +3,7 @@ Implementation of Rock Band 2 into Archipelago Manual
 
 **Game:** Rock Band 2
 
-**Checks:** Each chart from every song in the game.
+**Checks:** Each chart from each instrument from every song in the game.
 
 **Key Items:** Song unlocks and Progressive Tier unlocks.
 
