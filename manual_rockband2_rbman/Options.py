@@ -1,30 +1,11 @@
-from Options import FreeText, OptionSet, Option
-from BaseClasses import MultiWorld
-from typing import Union, Dict
+from Options import FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, SpecialRange
+
+from .hooks.Options import before_options_defined, after_options_defined
 
 
-class ExcludeInstruments(OptionSet):
-    """
-    Excludes instruments from holding progression. Valid options are ["Bass", "Drums", "Guitar", "Vocals"]
-    """
-    display_name = "Exclude Instruments"
-    valid_keys = frozenset([
-        "Bass", "Drums", "Guitar", "Vocals"
-    ])
 
+manual_options = before_options_defined({})
 
-manual_options: Dict[str, Option] = {
-    "exclude_instruments": ExcludeInstruments
-}
+# Manual can do things to define options here, though it doesn't currently
 
-
-def is_option_enabled(world: MultiWorld, player: int, name: str) -> bool:
-    return get_option_value(world, player, name) > 0
-
-
-def get_option_value(world: MultiWorld, player: int, name: str) -> Union[int, dict]:
-    option = getattr(world, name, None)
-    if option == None:
-        return 0
-
-    return option[player].value
+manual_options = after_options_defined(manual_options)
