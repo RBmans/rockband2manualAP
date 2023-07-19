@@ -64,11 +64,11 @@ class ManualWorld(World):
         start_inventory = self.multiworld.start_inventory[self.player].value.copy()
         tier_0_songs = []
         for key, val in enumerate(self.item_table):
-            print(self.item_table[key])
             if "category" in self.item_table[key] and self.item_table[key]["category"][0] == "Tier 0":
                 tier_0_songs.append(self.item_table[key]["name"])
         for i in range(get_option_value(self.multiworld, self.player, "starting_songs")):
             song = random.choice(tier_0_songs)
+            #print("[DEBUG] Adding to start pool: %s" % (song))
             start_inventory[song] = 1
             self.multiworld.push_precollected(self.create_item(song))
             tier_0_songs.remove(song)
