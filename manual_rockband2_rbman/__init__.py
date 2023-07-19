@@ -61,11 +61,16 @@ class ManualWorld(World):
 
     def generate_basic(self):
         # Make Starting Inventory
-        tier_0_songs = list(filter(lambda item:(item.category[0] == "Tier 0"), list(self.item_table.copy())))
+        start_inventory = self.multiworld.start_inventory[self.player].value.copy()
+        tier_0_songs = []
+        for key, val in enumerate(self.item_table):
+            print(self.item_table[key])
+            if "category" in self.item_table[key] and self.item_table[key]["category"][0] == "Tier 0":
+                tier_0_songs.append(self.item_table[key]["name"])
         for i in range(get_option_value(self.multiworld, self.player, "starting_songs")):
             song = random.choice(tier_0_songs)
-            start_inventory[song.name] = 1
-            self.multiworld.push_precollected(self.create_item(song.name))
+            start_inventory[song] = 1
+            self.multiworld.push_precollected(self.create_item(song))
             tier_0_songs.remove(song)
 
         # Generate item pool
