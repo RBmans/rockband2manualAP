@@ -1,0 +1,43 @@
+{
+
+	"Tier 0": {
+		"requires": [],
+		"connects_to": [ "Tier 1" ],
+		"starting": true
+	},
+	
+	"Tier 1": {
+		"requires": [ "Progressive Tier:1" ],
+		"connects_to": [ "Tier 2", "Tier 1" ]
+	},
+	
+	"Tier 2": {
+		"requires": [ "Progressive Tier:2" ],
+		"connects_to": [ "Tier 3", "Tier 2" ]
+	},
+	
+	"Tier 3": {
+		"requires": [ "Progressive Tier:3" ],
+		"connects_to": [ "Tier 4", "Tier 2" ]
+	},
+	
+	"Tier 4": {
+		"requires": [ "Progressive Tier:4" ],
+		"connects_to": [ "Tier 5", "Tier 3" ]
+	},
+	
+	"Tier 5": {
+		"requires": [ "Progressive Tier:5" ],
+		"connects_to": [ "Tier 6", "Tier 4" ]
+	},
+	
+	"Tier 6": {
+		"requires": [ "Progressive Tier:6" ],
+		"connects_to": [ "Tier 5" ]
+	}
+	
+}
+	
+	
+	
+	

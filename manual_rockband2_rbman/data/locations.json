@@ -1,0 +1,2024 @@
+[{
+		"name": "Eye of the Tiger - Drums",
+		"category": ["Drums"],
+		"region": "Tier 0",
+		"requires": ["Eye of the Tiger"]
+	},
+	{
+		"name": "Eye of the Tiger - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 0",
+		"requires": ["Eye of the Tiger"]
+	},
+	{
+		"name": "Eye of the Tiger - Bass",
+		"category": ["Bass"],
+		"region": "Tier 0",
+		"requires": ["Eye of the Tiger"]
+	},
+	{
+		"name": "Eye of the Tiger - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 0",
+		"requires": ["Eye of the Tiger"]
+	},
+	{
+		"name": "Float On - Drums",
+		"category": ["Drums"],
+		"region": "Tier 0",
+		"requires": ["Float On"]
+	},
+	{
+		"name": "Float On - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 0",
+		"requires": ["Float On"]
+	},
+	{
+		"name": "Float On - Bass",
+		"category": ["Bass"],
+		"region": "Tier 0",
+		"requires": ["Float On"]
+	},
+	{
+		"name": "Float On - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 0",
+		"requires": ["Float On"]
+	},
+	{
+		"name": "Hungry Like the Wolf - Drums",
+		"category": ["Drums"],
+		"region": "Tier 0",
+		"requires": ["Hungry Like the Wolf"]
+	},
+	{
+		"name": "Hungry Like the Wolf - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 0",
+		"requires": ["Hungry Like the Wolf"]
+	},
+	{
+		"name": "Hungry Like the Wolf - Bass",
+		"category": ["Bass"],
+		"region": "Tier 0",
+		"requires": ["Hungry Like the Wolf"]
+	},
+	{
+		"name": "Hungry Like the Wolf - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 0",
+		"requires": ["Hungry Like the Wolf"]
+	},
+	{
+		"name": "Pretend We're Dead - Drums",
+		"category": ["Drums"],
+		"region": "Tier 0",
+		"requires": ["Pretend We're Dead"]
+	},
+	{
+		"name": "Pretend We're Dead - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 0",
+		"requires": ["Pretend We're Dead"]
+	},
+	{
+		"name": "Pretend We're Dead - Bass",
+		"category": ["Bass"],
+		"region": "Tier 0",
+		"requires": ["Pretend We're Dead"]
+	},
+	{
+		"name": "Pretend We're Dead - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 0",
+		"requires": ["Pretend We're Dead"]
+	},
+	{
+		"name": "My Own Worst Enemy - Drums",
+		"category": ["Drums"],
+		"region": "Tier 0",
+		"requires": ["My Own Worst Enemy"]
+	},
+	{
+		"name": "My Own Worst Enemy - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 0",
+		"requires": ["My Own Worst Enemy"]
+	},
+	{
+		"name": "My Own Worst Enemy - Bass",
+		"category": ["Bass"],
+		"region": "Tier 0",
+		"requires": ["My Own Worst Enemy"]
+	},
+	{
+		"name": "My Own Worst Enemy - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 0",
+		"requires": ["My Own Worst Enemy"]
+	},
+	{
+		"name": "Rebel Girl - Drums",
+		"category": ["Drums"],
+		"region": "Tier 0",
+		"requires": ["Rebel Girl"]
+	},
+	{
+		"name": "Rebel Girl - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 0",
+		"requires": ["Rebel Girl"]
+	},
+	{
+		"name": "Rebel Girl - Bass",
+		"category": ["Bass"],
+		"region": "Tier 0",
+		"requires": ["Rebel Girl"]
+	},
+	{
+		"name": "Rebel Girl - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 0",
+		"requires": ["Rebel Girl"]
+	},
+	{
+		"name": "So What'cha Want - Drums",
+		"category": ["Drums"],
+		"region": "Tier 0",
+		"requires": ["So What'cha Want"]
+	},
+	{
+		"name": "So What'cha Want - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 0",
+		"requires": ["So What'cha Want"]
+	},
+	{
+		"name": "So What'cha Want - Bass",
+		"category": ["Bass"],
+		"region": "Tier 0",
+		"requires": ["So What'cha Want"]
+	},
+	{
+		"name": "So What'cha Want - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 0",
+		"requires": ["So What'cha Want"]
+	},
+	{
+		"name": "Drain You - Drums",
+		"category": ["Drums"],
+		"region": "Tier 0",
+		"requires": ["Drain You"]
+	},
+	{
+		"name": "Drain You - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 0",
+		"requires": ["Drain You"]
+	},
+	{
+		"name": "Drain You - Bass",
+		"category": ["Bass"],
+		"region": "Tier 0",
+		"requires": ["Drain You"]
+	},
+	{
+		"name": "Drain You - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 0",
+		"requires": ["Drain You"]
+	},
+	{
+		"name": "I Was Wrong - Drums",
+		"category": ["Drums"],
+		"region": "Tier 0",
+		"requires": ["I Was Wrong"]
+	},
+	{
+		"name": "I Was Wrong - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 0",
+		"requires": ["I Was Wrong"]
+	},
+	{
+		"name": "I Was Wrong - Bass",
+		"category": ["Bass"],
+		"region": "Tier 0",
+		"requires": ["I Was Wrong"]
+	},
+	{
+		"name": "I Was Wrong - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 0",
+		"requires": ["I Was Wrong"]
+	},
+	{
+		"name": "Nine in the Afternoon - Drums",
+		"category": ["Drums"],
+		"region": "Tier 0",
+		"requires": ["Nine in the Afternoon"]
+	},
+	{
+		"name": "Nine in the Afternoon - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 0",
+		"requires": ["Nine in the Afternoon"]
+	},
+	{
+		"name": "Nine in the Afternoon - Bass",
+		"category": ["Bass"],
+		"region": "Tier 0",
+		"requires": ["Nine in the Afternoon"]
+	},
+	{
+		"name": "Nine in the Afternoon - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 0",
+		"requires": ["Nine in the Afternoon"]
+	},
+	{
+		"name": "E-Pro - Drums",
+		"category": ["Drums"],
+		"region": "Tier 0",
+		"requires": ["E-Pro"]
+	},
+	{
+		"name": "E-Pro - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 0",
+		"requires": ["E-Pro"]
+	},
+	{
+		"name": "E-Pro - Bass",
+		"category": ["Bass"],
+		"region": "Tier 0",
+		"requires": ["E-Pro"]
+	},
+	{
+		"name": "E-Pro - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 0",
+		"requires": ["E-Pro"]
+	},
+	{
+		"name": "PDA - Drums",
+		"category": ["Drums"],
+		"region": "Tier 0",
+		"requires": ["PDA"]
+	},
+	{
+		"name": "PDA - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 0",
+		"requires": ["PDA"]
+	},
+	{
+		"name": "PDA - Bass",
+		"category": ["Bass"],
+		"region": "Tier 0",
+		"requires": ["PDA"]
+	},
+	{
+		"name": "PDA - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 0",
+		"requires": ["PDA"]
+	},
+	{
+		"name": "Today - Drums",
+		"category": ["Drums"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Today"]
+	},
+	{
+		"name": "Today - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Today"]
+	},
+	{
+		"name": "Today - Bass",
+		"category": ["Bass"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Today"]
+	},
+	{
+		"name": "Today - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Today"]
+	},
+	{
+		"name": "Cool for Cats - Drums",
+		"category": ["Drums"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Cool for Cats"]
+	},
+	{
+		"name": "Cool for Cats - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Cool for Cats"]
+	},
+	{
+		"name": "Cool for Cats - Bass",
+		"category": ["Bass"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Cool for Cats"]
+	},
+	{
+		"name": "Cool for Cats - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Cool for Cats"]
+	},
+	{
+		"name": "One Step Closer - Drums",
+		"category": ["Drums"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "One Step Closer"]
+	},
+	{
+		"name": "One Step Closer - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "One Step Closer"]
+	},
+	{
+		"name": "One Step Closer - Bass",
+		"category": ["Bass"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "One Step Closer"]
+	},
+	{
+		"name": "One Step Closer - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "One Step Closer"]
+	},
+	{
+		"name": "We Got the Beat - Drums",
+		"category": ["Drums"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "We Got the Beat"]
+	},
+	{
+		"name": "We Got the Beat - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "We Got the Beat"]
+	},
+	{
+		"name": "We Got the Beat - Bass",
+		"category": ["Bass"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "We Got the Beat"]
+	},
+	{
+		"name": "We Got the Beat - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "We Got the Beat"]
+	},
+	{
+		"name": "That's What You Get - Drums",
+		"category": ["Drums"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "That's What You Get"]
+	},
+	{
+		"name": "That's What You Get - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "That's What You Get"]
+	},
+	{
+		"name": "That's What You Get - Bass",
+		"category": ["Bass"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "That's What You Get"]
+	},
+	{
+		"name": "That's What You Get - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "That's What You Get"]
+	},
+	{
+		"name": "New Kid in School - Drums",
+		"category": ["Drums"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "New Kid in School"]
+	},
+	{
+		"name": "New Kid in School - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "New Kid in School"]
+	},
+	{
+		"name": "New Kid in School - Bass",
+		"category": ["Bass"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "New Kid in School"]
+	},
+	{
+		"name": "New Kid in School - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "New Kid in School"]
+	},
+	{
+		"name": "Hello There - Drums",
+		"category": ["Drums"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Hello There"]
+	},
+	{
+		"name": "Hello There - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Hello There"]
+	},
+	{
+		"name": "Hello There - Bass",
+		"category": ["Bass"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Hello There"]
+	},
+	{
+		"name": "Hello There - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Hello There"]
+	},
+	{
+		"name": "Man in the Box - Drums",
+		"category": ["Drums"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Man in the Box"]
+	},
+	{
+		"name": "Man in the Box - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Man in the Box"]
+	},
+	{
+		"name": "Man in the Box - Bass",
+		"category": ["Bass"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Man in the Box"]
+	},
+	{
+		"name": "Man in the Box - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Man in the Box"]
+	},
+	{
+		"name": "Spirit in the Sky - Drums",
+		"category": ["Drums"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Spirit in the Sky"]
+	},
+	{
+		"name": "Spirit in the Sky - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Spirit in the Sky"]
+	},
+	{
+		"name": "Spirit in the Sky - Bass",
+		"category": ["Bass"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Spirit in the Sky"]
+	},
+	{
+		"name": "Spirit in the Sky - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Spirit in the Sky"]
+	},
+	{
+		"name": "Feel the Pain - Drums",
+		"category": ["Drums"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Feel the Pain"]
+	},
+	{
+		"name": "Feel the Pain - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Feel the Pain"]
+	},
+	{
+		"name": "Feel the Pain - Bass",
+		"category": ["Bass"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Feel the Pain"]
+	},
+	{
+		"name": "Feel the Pain - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Feel the Pain"]
+	},
+	{
+		"name": "Pump it Up - Drums",
+		"category": ["Drums"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Pump it Up"]
+	},
+	{
+		"name": "Pump it Up - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Pump it Up"]
+	},
+	{
+		"name": "Pump it Up - Bass",
+		"category": ["Bass"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Pump it Up"]
+	},
+	{
+		"name": "Pump it Up - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Pump it Up"]
+	},
+	{
+		"name": "Welcome to the Neighbourhood - Drums",
+		"category": ["Drums"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Welcome to the Neighbourhood"]
+	},
+	{
+		"name": "Welcome to the Neighbourhood - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Welcome to the Neighbourhood"]
+	},
+	{
+		"name": "Welcome to the Neighbourhood - Bass",
+		"category": ["Bass"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Welcome to the Neighbourhood"]
+	},
+	{
+		"name": "Welcome to the Neighbourhood - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 1",
+		"requires": ["Progressive Tier:1", "Welcome to the Neighbourhood"]
+	},
+	{
+		"name": "Lump - Drums",
+		"category": ["Drums"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Lump"]
+	},
+	{
+		"name": "Lump - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Lump"]
+	},
+	{
+		"name": "Lump - Bass",
+		"category": ["Bass"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Lump"]
+	},
+	{
+		"name": "Lump - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Lump"]
+	},
+	{
+		"name": "American Woman - Drums",
+		"category": ["Drums"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "American Woman"]
+	},
+	{
+		"name": "American Woman - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "American Woman"]
+	},
+	{
+		"name": "American Woman - Bass",
+		"category": ["Bass"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "American Woman"]
+	},
+	{
+		"name": "American Woman - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "American Woman"]
+	},
+	{
+		"name": "White Wedding - Drums",
+		"category": ["Drums"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "White Wedding"]
+	},
+	{
+		"name": "White Wedding - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "White Wedding"]
+	},
+	{
+		"name": "White Wedding - Bass",
+		"category": ["Bass"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "White Wedding"]
+	},
+	{
+		"name": "White Wedding - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "White Wedding"]
+	},
+	{
+		"name": "Psycho Killer - Drums",
+		"category": ["Drums"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Psycho Killer"]
+	},
+	{
+		"name": "Psycho Killer - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Psycho Killer"]
+	},
+	{
+		"name": "Psycho Killer - Bass",
+		"category": ["Bass"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Psycho Killer"]
+	},
+	{
+		"name": "Psycho Killer - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Psycho Killer"]
+	},
+	{
+		"name": "Give it Away - Drums",
+		"category": ["Drums"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Give it Away"]
+	},
+	{
+		"name": "Give it Away - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Give it Away"]
+	},
+	{
+		"name": "Give it Away - Bass",
+		"category": ["Bass"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Give it Away"]
+	},
+	{
+		"name": "Give it Away - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Give it Away"]
+	},
+	{
+		"name": "Conventional Loser - Drums",
+		"category": ["Drums"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Conventional Loser"]
+	},
+	{
+		"name": "Conventional Loser - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Conventional Loser"]
+	},
+	{
+		"name": "Conventional Loser - Bass",
+		"category": ["Bass"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Conventional Loser"]
+	},
+	{
+		"name": "Conventional Loser - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Conventional Loser"]
+	},
+	{
+		"name": "A Jagged Gorgeous Winter - Drums",
+		"category": ["Drums"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "A Jagged Gorgeous Winter"]
+	},
+	{
+		"name": "A Jagged Gorgeous Winter - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "A Jagged Gorgeous Winter"]
+	},
+	{
+		"name": "A Jagged Gorgeous Winter - Bass",
+		"category": ["Bass"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "A Jagged Gorgeous Winter"]
+	},
+	{
+		"name": "A Jagged Gorgeous Winter - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "A Jagged Gorgeous Winter"]
+	},
+	{
+		"name": "Shooting Star - Drums",
+		"category": ["Drums"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Shooting Star"]
+	},
+	{
+		"name": "Shooting Star - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Shooting Star"]
+	},
+	{
+		"name": "Shooting Star - Bass",
+		"category": ["Bass"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Shooting Star"]
+	},
+	{
+		"name": "Shooting Star - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Shooting Star"]
+	},
+	{
+		"name": "Livin' on a Prayer - Drums",
+		"category": ["Drums"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Livin' on a Prayer"]
+	},
+	{
+		"name": "Livin' on a Prayer - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Livin' on a Prayer"]
+	},
+	{
+		"name": "Livin' on a Prayer - Bass",
+		"category": ["Bass"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Livin' on a Prayer"]
+	},
+	{
+		"name": "Livin' on a Prayer - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "Livin' on a Prayer"]
+	},
+	{
+		"name": "De-Luxe - Drums",
+		"category": ["Drums"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "De-Luxe"]
+	},
+	{
+		"name": "De-Luxe - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "De-Luxe"]
+	},
+	{
+		"name": "De-Luxe - Bass",
+		"category": ["Bass"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "De-Luxe"]
+	},
+	{
+		"name": "De-Luxe - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "De-Luxe"]
+	},
+	{
+		"name": "One Way or Another - Drums",
+		"category": ["Drums"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "One Way or Another"]
+	},
+	{
+		"name": "One Way or Another - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "One Way or Another"]
+	},
+	{
+		"name": "One Way or Another - Bass",
+		"category": ["Bass"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "One Way or Another"]
+	},
+	{
+		"name": "One Way or Another - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "One Way or Another"]
+	},
+	{
+		"name": "The Middle - Drums",
+		"category": ["Drums"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "The Middle"]
+	},
+	{
+		"name": "The Middle - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "The Middle"]
+	},
+	{
+		"name": "The Middle - Bass",
+		"category": ["Bass"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "The Middle"]
+	},
+	{
+		"name": "The Middle - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 2",
+		"requires": ["Progressive Tier:2", "The Middle"]
+	},
+	{
+		"name": "Mountain Song - Drums",
+		"category": ["Drums"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Mountain Song"]
+	},
+	{
+		"name": "Mountain Song - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Mountain Song"]
+	},
+	{
+		"name": "Mountain Song - Bass",
+		"category": ["Bass"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Mountain Song"]
+	},
+	{
+		"name": "Mountain Song - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Mountain Song"]
+	},
+	{
+		"name": "Kids in America - Drums",
+		"category": ["Drums"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Kids in America"]
+	},
+	{
+		"name": "Kids in America - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Kids in America"]
+	},
+	{
+		"name": "Kids in America - Bass",
+		"category": ["Bass"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Kids in America"]
+	},
+	{
+		"name": "Kids in America - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Kids in America"]
+	},
+	{
+		"name": "Go Your Own Way - Drums",
+		"category": ["Drums"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Go Your Own Way"]
+	},
+	{
+		"name": "Go Your Own Way - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Go Your Own Way"]
+	},
+	{
+		"name": "Go Your Own Way - Bass",
+		"category": ["Bass"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Go Your Own Way"]
+	},
+	{
+		"name": "Go Your Own Way - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Go Your Own Way"]
+	},
+	{
+		"name": "Girl's Not Grey - Drums",
+		"category": ["Drums"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Girl's Not Grey"]
+	},
+	{
+		"name": "Girl's Not Grey - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Girl's Not Grey"]
+	},
+	{
+		"name": "Girl's Not Grey - Bass",
+		"category": ["Bass"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Girl's Not Grey"]
+	},
+	{
+		"name": "Girl's Not Grey - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Girl's Not Grey"]
+	},
+	{
+		"name": "Tangled Up in Blue - Drums",
+		"category": ["Drums"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Tangled Up in Blue"]
+	},
+	{
+		"name": "Tangled Up in Blue - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Tangled Up in Blue"]
+	},
+	{
+		"name": "Tangled Up in Blue - Bass",
+		"category": ["Bass"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Tangled Up in Blue"]
+	},
+	{
+		"name": "Tangled Up in Blue - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Tangled Up in Blue"]
+	},
+	{
+		"name": "Alex Chilton - Drums",
+		"category": ["Drums"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Alex Chilton"]
+	},
+	{
+		"name": "Alex Chilton - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Alex Chilton"]
+	},
+	{
+		"name": "Alex Chilton - Bass",
+		"category": ["Bass"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Alex Chilton"]
+	},
+	{
+		"name": "Alex Chilton - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Alex Chilton"]
+	},
+	{
+		"name": "Alive - Drums",
+		"category": ["Drums"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Alive"]
+	},
+	{
+		"name": "Alive - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Alive"]
+	},
+	{
+		"name": "Alive - Bass",
+		"category": ["Bass"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Alive"]
+	},
+	{
+		"name": "Alive - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Alive"]
+	},
+	{
+		"name": "Where'd You Go? - Drums",
+		"category": ["Drums"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Where'd You Go?"]
+	},
+	{
+		"name": "Where'd You Go? - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Where'd You Go?"]
+	},
+	{
+		"name": "Where'd You Go? - Bass",
+		"category": ["Bass"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Where'd You Go?"]
+	},
+	{
+		"name": "Where'd You Go? - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Where'd You Go?"]
+	},
+	{
+		"name": "Come Out & Play (Keep 'em Seperated) - Drums",
+		"category": ["Drums"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Come Out & Play (Keep 'em Seperated)"]
+	},
+	{
+		"name": "Come Out & Play (Keep 'em Seperated) - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Come Out & Play (Keep 'em Seperated)"]
+	},
+	{
+		"name": "Come Out & Play (Keep 'em Seperated) - Bass",
+		"category": ["Bass"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Come Out & Play (Keep 'em Seperated)"]
+	},
+	{
+		"name": "Come Out & Play (Keep 'em Seperated) - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Come Out & Play (Keep 'em Seperated)"]
+	},
+	{
+		"name": "Round & Round - Drums",
+		"category": ["Drums"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Round & Round"]
+	},
+	{
+		"name": "Round & Round - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Round & Round"]
+	},
+	{
+		"name": "Round & Round - Bass",
+		"category": ["Bass"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Round & Round"]
+	},
+	{
+		"name": "Round & Round - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Round & Round"]
+	},
+	{
+		"name": "Lazy Eye - Drums",
+		"category": ["Drums"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Lazy Eye"]
+	},
+	{
+		"name": "Lazy Eye - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Lazy Eye"]
+	},
+	{
+		"name": "Lazy Eye - Bass",
+		"category": ["Bass"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Lazy Eye"]
+	},
+	{
+		"name": "Lazy Eye - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Lazy Eye"]
+	},
+	{
+		"name": "Rock'n Me - Drums",
+		"category": ["Drums"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Rock'n Me"]
+	},
+	{
+		"name": "Rock'n Me - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Rock'n Me"]
+	},
+	{
+		"name": "Rock'n Me - Bass",
+		"category": ["Bass"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Rock'n Me"]
+	},
+	{
+		"name": "Rock'n Me - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 3",
+		"requires": ["Progressive Tier:3", "Rock'n Me"]
+	},
+	{
+		"name": "Our Truth - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Our Truth"]
+	},
+	{
+		"name": "Our Truth - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Our Truth"]
+	},
+	{
+		"name": "Our Truth - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Our Truth"]
+	},
+	{
+		"name": "Our Truth - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Our Truth"]
+	},
+	{
+		"name": "Bad Reputation - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Bad Reputation"]
+	},
+	{
+		"name": "Bad Reputation - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Bad Reputation"]
+	},
+	{
+		"name": "Bad Reputation - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Bad Reputation"]
+	},
+	{
+		"name": "Bad Reputation - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Bad Reputation"]
+	},
+	{
+		"name": "You Oughta Know - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "You Oughta Know"]
+	},
+	{
+		"name": "You Oughta Know - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "You Oughta Know"]
+	},
+	{
+		"name": "You Oughta Know - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "You Oughta Know"]
+	},
+	{
+		"name": "You Oughta Know - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "You Oughta Know"]
+	},
+	{
+		"name": "Supreme Girl - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Supreme Girl"]
+	},
+	{
+		"name": "Supreme Girl - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Supreme Girl"]
+	},
+	{
+		"name": "Supreme Girl - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Supreme Girl"]
+	},
+	{
+		"name": "Supreme Girl - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Supreme Girl"]
+	},
+	{
+		"name": "Pinball Wizard - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Pinball Wizard"]
+	},
+	{
+		"name": "Pinball Wizard - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Pinball Wizard"]
+	},
+	{
+		"name": "Pinball Wizard - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Pinball Wizard"]
+	},
+	{
+		"name": "Pinball Wizard - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Pinball Wizard"]
+	},
+	{
+		"name": "Testify - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Testify"]
+	},
+	{
+		"name": "Testify - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Testify"]
+	},
+	{
+		"name": "Testify - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Testify"]
+	},
+	{
+		"name": "Testify - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Testify"]
+	},
+	{
+		"name": "Uncontrollable Urge - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Uncontrollable Urge"]
+	},
+	{
+		"name": "Uncontrollable Urge - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Uncontrollable Urge"]
+	},
+	{
+		"name": "Uncontrollable Urge - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Uncontrollable Urge"]
+	},
+	{
+		"name": "Uncontrollable Urge - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Uncontrollable Urge"]
+	},
+	{
+		"name": "Any Way You Want It - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Any Way You Want It"]
+	},
+	{
+		"name": "Any Way You Want It - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Any Way You Want It"]
+	},
+	{
+		"name": "Any Way You Want It - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Any Way You Want It"]
+	},
+	{
+		"name": "Any Way You Want It - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Any Way You Want It"]
+	},
+	{
+		"name": "Night Lies - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Night Lies"]
+	},
+	{
+		"name": "Night Lies - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Night Lies"]
+	},
+	{
+		"name": "Night Lies - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Night Lies"]
+	},
+	{
+		"name": "Night Lies - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Night Lies"]
+	},
+	{
+		"name": "Alabama Getaway - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Alabama Getaway"]
+	},
+	{
+		"name": "Alabama Getaway - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Alabama Getaway"]
+	},
+	{
+		"name": "Alabama Getaway - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Alabama Getaway"]
+	},
+	{
+		"name": "Alabama Getaway - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Alabama Getaway"]
+	},
+	{
+		"name": "Teen Age Riot - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Teen Age Riot"]
+	},
+	{
+		"name": "Teen Age Riot - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Teen Age Riot"]
+	},
+	{
+		"name": "Teen Age Riot - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Teen Age Riot"]
+	},
+	{
+		"name": "Teen Age Riot - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Teen Age Riot"]
+	},
+	{
+		"name": "Shackler's Revenge - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Shackler's Revenge"]
+	},
+	{
+		"name": "Shackler's Revenge - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Shackler's Revenge"]
+	},
+	{
+		"name": "Shackler's Revenge - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Shackler's Revenge"]
+	},
+	{
+		"name": "Shackler's Revenge - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Shackler's Revenge"]
+	},
+	{
+		"name": "Aqualung - Drums",
+		"category": ["Drums"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Aqualung"]
+	},
+	{
+		"name": "Aqualung - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Aqualung"]
+	},
+	{
+		"name": "Aqualung - Bass",
+		"category": ["Bass"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Aqualung"]
+	},
+	{
+		"name": "Aqualung - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 4",
+		"requires": ["Progressive Tier:4", "Aqualung"]
+	},
+	{
+		"name": "Down with the Sickness - Drums",
+		"category": ["Drums"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Down with the Sickness"]
+	},
+	{
+		"name": "Down with the Sickness - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Down with the Sickness"]
+	},
+	{
+		"name": "Down with the Sickness - Bass",
+		"category": ["Bass"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Down with the Sickness"]
+	},
+	{
+		"name": "Down with the Sickness - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Down with the Sickness"]
+	},
+	{
+		"name": "Give It All - Drums",
+		"category": ["Drums"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Give It All"]
+	},
+	{
+		"name": "Give It All - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Give It All"]
+	},
+	{
+		"name": "Give It All - Bass",
+		"category": ["Bass"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Give It All"]
+	},
+	{
+		"name": "Give It All - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Give It All"]
+	},
+	{
+		"name": "Everlong - Drums",
+		"category": ["Drums"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Everlong"]
+	},
+	{
+		"name": "Everlong - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Everlong"]
+	},
+	{
+		"name": "Everlong - Bass",
+		"category": ["Bass"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Everlong"]
+	},
+	{
+		"name": "Everlong - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Everlong"]
+	},
+	{
+		"name": "Rob the Prez-O-Dent - Drums",
+		"category": ["Drums"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Rob the Prez-O-Dent"]
+	},
+	{
+		"name": "Rob the Prez-O-Dent - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Rob the Prez-O-Dent"]
+	},
+	{
+		"name": "Rob the Prez-O-Dent - Bass",
+		"category": ["Bass"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Rob the Prez-O-Dent"]
+	},
+	{
+		"name": "Rob the Prez-O-Dent - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Rob the Prez-O-Dent"]
+	},
+	{
+		"name": "Let There Be Rock - Drums",
+		"category": ["Drums"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Let There Be Rock"]
+	},
+	{
+		"name": "Let There Be Rock - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Let There Be Rock"]
+	},
+	{
+		"name": "Let There Be Rock - Bass",
+		"category": ["Bass"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Let There Be Rock"]
+	},
+	{
+		"name": "Let There Be Rock - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Let There Be Rock"]
+	},
+	{
+		"name": "The Trees - Drums",
+		"category": ["Drums"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "The Trees"]
+	},
+	{
+		"name": "The Trees - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "The Trees"]
+	},
+	{
+		"name": "The Trees - Bass",
+		"category": ["Bass"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "The Trees"]
+	},
+	{
+		"name": "The Trees - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "The Trees"]
+	},
+	{
+		"name": "Carry on Wayward Son - Drums",
+		"category": ["Drums"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Carry on Wayward Son"]
+	},
+	{
+		"name": "Carry on Wayward Son - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Carry on Wayward Son"]
+	},
+	{
+		"name": "Carry on Wayward Son - Bass",
+		"category": ["Bass"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Carry on Wayward Son"]
+	},
+	{
+		"name": "Carry on Wayward Son - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Carry on Wayward Son"]
+	},
+	{
+		"name": "Ace of Spades - Drums",
+		"category": ["Drums"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Ace of Spades"]
+	},
+	{
+		"name": "Ace of Spades - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Ace of Spades"]
+	},
+	{
+		"name": "Ace of Spades - Bass",
+		"category": ["Bass"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Ace of Spades"]
+	},
+	{
+		"name": "Ace of Spades - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Ace of Spades"]
+	},
+	{
+		"name": "Spoonman - Drums",
+		"category": ["Drums"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Spoonman"]
+	},
+	{
+		"name": "Spoonman - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Spoonman"]
+	},
+	{
+		"name": "Spoonman - Bass",
+		"category": ["Bass"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Spoonman"]
+	},
+	{
+		"name": "Spoonman - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Spoonman"]
+	},
+	{
+		"name": "Chop Suey - Drums",
+		"category": ["Drums"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Chop Suey"]
+	},
+	{
+		"name": "Chop Suey - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Chop Suey"]
+	},
+	{
+		"name": "Chop Suey - Bass",
+		"category": ["Bass"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Chop Suey"]
+	},
+	{
+		"name": "Chop Suey - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Chop Suey"]
+	},
+	{
+		"name": "Master Exploder - Drums",
+		"category": ["Drums"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Master Exploder"]
+	},
+	{
+		"name": "Master Exploder - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Master Exploder"]
+	},
+	{
+		"name": "Master Exploder - Bass",
+		"category": ["Bass"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Master Exploder"]
+	},
+	{
+		"name": "Master Exploder - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 5",
+		"requires": ["Progressive Tier:5", "Master Exploder"]
+	},
+	{
+		"name": "Almost Easy - Drums",
+		"category": ["Drums"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Almost Easy"]
+	},
+	{
+		"name": "Almost Easy - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Almost Easy"]
+	},
+	{
+		"name": "Almost Easy - Bass",
+		"category": ["Bass"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Almost Easy"]
+	},
+	{
+		"name": "Almost Easy - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Almost Easy"]
+	},
+	{
+		"name": "Ramblin' Man - Drums",
+		"category": ["Drums"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Ramblin' Man"]
+	},
+	{
+		"name": "Ramblin' Man - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Ramblin' Man"]
+	},
+	{
+		"name": "Ramblin' Man - Bass",
+		"category": ["Bass"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Ramblin' Man"]
+	},
+	{
+		"name": "Ramblin' Man - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Ramblin' Man"]
+	},
+	{
+		"name": "Shoulder to the Plow - Drums",
+		"category": ["Drums"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Shoulder to the Plow"]
+	},
+	{
+		"name": "Shoulder to the Plow - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Shoulder to the Plow"]
+	},
+	{
+		"name": "Shoulder to the Plow - Bass",
+		"category": ["Bass"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Shoulder to the Plow"]
+	},
+	{
+		"name": "Shoulder to the Plow - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Shoulder to the Plow"]
+	},
+	{
+		"name": "Get Clean - Drums",
+		"category": ["Drums"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Get Clean"]
+	},
+	{
+		"name": "Get Clean - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Get Clean"]
+	},
+	{
+		"name": "Get Clean - Bass",
+		"category": ["Bass"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Get Clean"]
+	},
+	{
+		"name": "Get Clean - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Get Clean"]
+	},
+	{
+		"name": "Colony of Birchman - Drums",
+		"category": ["Drums"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Colony of Birchman"]
+	},
+	{
+		"name": "Colony of Birchman - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Colony of Birchman"]
+	},
+	{
+		"name": "Colony of Birchman - Bass",
+		"category": ["Bass"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Colony of Birchman"]
+	},
+	{
+		"name": "Colony of Birchman - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Colony of Birchman"]
+	},
+	{
+		"name": "Bodhisattva - Drums",
+		"category": ["Drums"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Bodhisattva"]
+	},
+	{
+		"name": "Bodhisattva - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Bodhisattva"]
+	},
+	{
+		"name": "Bodhisattva - Bass",
+		"category": ["Bass"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Bodhisattva"]
+	},
+	{
+		"name": "Bodhisattva - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Bodhisattva"]
+	},
+	{
+		"name": "Visions - Drums",
+		"category": ["Drums"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Visions"]
+	},
+	{
+		"name": "Visions - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Visions"]
+	},
+	{
+		"name": "Visions - Bass",
+		"category": ["Bass"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Visions"]
+	},
+	{
+		"name": "Visions - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Visions"]
+	},
+	{
+		"name": "Panic Attack - Drums",
+		"category": ["Drums"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Panic Attack"]
+	},
+	{
+		"name": "Panic Attack - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Panic Attack"]
+	},
+	{
+		"name": "Panic Attack - Bass",
+		"category": ["Bass"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Panic Attack"]
+	},
+	{
+		"name": "Panic Attack - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Panic Attack"]
+	},
+	{
+		"name": "Painkiller - Drums",
+		"category": ["Drums"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Painkiller"]
+	},
+	{
+		"name": "Painkiller - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Painkiller"]
+	},
+	{
+		"name": "Painkiller - Bass",
+		"category": ["Bass"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Painkiller"]
+	},
+	{
+		"name": "Painkiller - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Painkiller"]
+	},
+	{
+		"name": "Battery - Drums",
+		"category": ["Drums"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Battery"]
+	},
+	{
+		"name": "Battery - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Battery"]
+	},
+	{
+		"name": "Battery - Bass",
+		"category": ["Bass"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Battery"]
+	},
+	{
+		"name": "Battery - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Battery"]
+	},
+	{
+		"name": "Peace Sells - Drums",
+		"category": ["Drums"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Peace Sells"]
+	},
+	{
+		"name": "Peace Sells - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Peace Sells"]
+	},
+	{
+		"name": "Peace Sells - Bass",
+		"category": ["Bass"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Peace Sells"]
+	},
+	{
+		"name": "Peace Sells - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Peace Sells"]
+	},
+	{
+		"name": "Souls of Black - Drums",
+		"category": ["Drums"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Souls of Black"]
+	},
+	{
+		"name": "Souls of Black - Guitar",
+		"category": ["Guitar"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Souls of Black"]
+	},
+	{
+		"name": "Souls of Black - Bass",
+		"category": ["Bass"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Souls of Black"]
+	},
+	{
+		"name": "Souls of Black - Vocals",
+		"category": ["Vocals"],
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6", "Souls of Black"]
+	},
+	{
+		"name": "Tier 6 - 20 FCs",
+		"region": "Tier 6",
+		"requires": ["Progressive Tier:6"],
+		"victory": true
+	}
+
+]
