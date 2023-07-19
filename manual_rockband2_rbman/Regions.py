@@ -1,8 +1,9 @@
-from BaseClasses import Entrance, MultiWorld, Region
+from BaseClasses import Entrance, MultiWorld, Region, LocationProgressType
 from .Data import region_table
 from .Locations import ManualLocation
 from ..AutoWorld import World
 from .hooks.Regions import before_region_table_processed
+from .Options import get_option_value
 
 if not region_table:
     region_table = {}

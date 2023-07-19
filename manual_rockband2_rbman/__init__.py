@@ -90,7 +90,6 @@ class ManualWorld(World):
         configured_item_names = self.item_id_to_name.copy()
 
         for name in configured_item_names.values():
-            print(name)
             if name == "__Victory__":
                 continue
 
