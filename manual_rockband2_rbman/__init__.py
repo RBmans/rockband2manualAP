@@ -60,6 +60,14 @@ class ManualWorld(World):
             ManualItem("__Victory__", ItemClassification.progression, None, player=self.player))
 
     def generate_basic(self):
+        # Make Starting Inventory
+        tier_0_songs = list(filter(lambda item:(item.category[0] == "Tier 0"), list(self.item_table.copy())))
+        for i in range(get_option_value(self.multiworld, self.player, "starting_songs")):
+            song = random.choice(tier_0_songs)
+            start_inventory[song.name] = 1
+            self.multiworld.push_precollected(self.create_item(song.name))
+            tier_0_songs.remove(song)
+
         # Generate item pool
         pool = []
         configured_item_names = self.item_id_to_name.copy()
@@ -85,8 +93,12 @@ class ManualWorld(World):
                 item_count = int(item["count"])
 
             for i in range(item_count):
-                new_item = self.create_item(name)
-                pool.append(new_item)
+                if name in start_inventory and start_inventory[name] > 0:
+                    new_item = self.create_item(filler_item_name)
+                    pool.append(new_item)
+                else:
+                    new_item = self.create_item(name)
+                    pool.append(new_item)
                 
 
         extras = len(location_table) - len(pool) - 1 # subtracting 1 because of Victory; seems right

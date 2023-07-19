@@ -1,4 +1,4 @@
-from Options import FreeText, OptionSet, Option
+from Options import FreeText, OptionSet, Option, Range
 from BaseClasses import MultiWorld
 from typing import Union, Dict
 
@@ -12,9 +12,19 @@ class ExcludeInstruments(OptionSet):
         "Bass", "Drums", "Guitar", "Vocals"
     ])
 
+class StartingSongs(Range):
+    """
+    Select an amount of random Tier 0 songs to start with.
+    """
+    display_name = "Starting Songs"
+    range_start = 1
+    range_end = 12
+    default = 3
+
 
 manual_options: Dict[str, Option] = {
-    "exclude_instruments": ExcludeInstruments
+    "exclude_instruments": ExcludeInstruments,
+    "starting_songs": StartingSongs
 }
 
 

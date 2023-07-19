@@ -60,7 +60,7 @@ def create_region(base: World, world: MultiWorld, player: int, name: str, locati
             for inst in get_option_value(world, player, "exclude_instruments"):
                 if location.endswith(" - " + inst):
                     locationObj.progress_type = LocationProgressType.EXCLUDED
-                    print("[DEBUG] Excluding location %s" % (location))
+                    #print("[DEBUG] Excluding location %s" % (location))
             ret.locations.append(locationObj)
     if exits:
         for exit in exits:

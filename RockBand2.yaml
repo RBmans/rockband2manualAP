@@ -4,8 +4,5 @@ name: RBRB2
 Manual_rockband2_rbman:
   progression_balancing: 50
   accessibility: items
-  start_inventory:
-    Pretend We're Dead: 1
-    My Own Worst Enemy: 1
-    Nine in the Afternoon: 1
+  starting_songs: 3
   exclude_instruments: ["Drums", "Vocals"]
