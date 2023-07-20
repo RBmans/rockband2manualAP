@@ -1,8 +1,9 @@
-from BaseClasses import Entrance, MultiWorld, Region
+from BaseClasses import Entrance, MultiWorld, Region, LocationProgressType
 from .Data import region_table
 from .Locations import ManualLocation
 from ..AutoWorld import World
 from .hooks.Regions import before_region_table_processed
+from .Options import get_option_value
 
 if not region_table:
     region_table = {}
@@ -59,6 +60,10 @@ def create_region(base: World, world: MultiWorld, player: int, name: str, locati
         for location in locations:
             loc_id = base.location_name_to_id.get(location, 0)
             locationObj = ManualLocation(player, location, loc_id, ret)
+            for inst in get_option_value(world, player, "exclude_instruments"):
+                if location.endswith(" - " + inst):
+                    locationObj.progress_type = LocationProgressType.EXCLUDED
+                    #print("[DEBUG] Excluding location %s" % (location))
             ret.locations.append(locationObj)
     if exits:
         for exit in exits:

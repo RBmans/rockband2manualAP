@@ -72,6 +72,19 @@ class ManualWorld(World):
         after_pre_fill(self, self.multiworld, self.player)
 
     def generate_basic(self):
+        # Make Starting Inventory
+        start_inventory = self.multiworld.start_inventory[self.player].value.copy()
+        tier_0_songs = []
+        for key, val in enumerate(self.item_table):
+            if "category" in self.item_table[key] and self.item_table[key]["category"][0] == "Tier 0":
+                tier_0_songs.append(self.item_table[key]["name"])
+        for i in range(get_option_value(self.multiworld, self.player, "starting_songs")):
+            song = random.choice(tier_0_songs)
+            #print("[DEBUG] Adding to start pool: %s" % (song))
+            start_inventory[song] = 1
+            self.multiworld.push_precollected(self.create_item(song))
+            tier_0_songs.remove(song)
+
         # Generate item pool
         pool = []
         configured_item_names = self.item_id_to_name.copy()
@@ -97,8 +110,12 @@ class ManualWorld(World):
                 item_count = int(item["count"])
 
             for i in range(item_count):
-                new_item = self.create_item(name)
-                pool.append(new_item)
+                if name in start_inventory and start_inventory[name] > 0:
+                    new_item = self.create_item(filler_item_name)
+                    pool.append(new_item)
+                else:
+                    new_item = self.create_item(name)
+                    pool.append(new_item)
                 
         if starting_items:
             for starting_item_block in starting_items:
