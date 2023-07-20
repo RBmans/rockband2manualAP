@@ -4,11 +4,5 @@
 	
 	"filler_item_name": "Fans",
 	
-	"starting_items": [
-		{ 
-			"item_categories":[ "Tier 0" ],
-			"random": 3
-		}
-	]
 }
 
