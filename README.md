@@ -17,7 +17,7 @@ Implementation of Rock Band 2 into Archipelago Manual
 
 **Other Items:** Use of Overdrive, various traps involving lefty flip (or righty if you are a lefty!), performance mode and use of (or lack of) hyper speed. Filler includes Fans, Money, and various unlockables/characters from RB2.
 
-**Victory Condition:** Since RB2 doesn't exactly have a real victory condition, the one I have made up is getting a certain percentage of the Stars available from songs in Tier 6. I calculate the number of stars using a formula: `[percentage] * 72 Stars * [# of instruments`. This scales the number of stars required to how many instruments you are playing in your seed. **This also counts achieving Gold Stars as collecting 6 Stars.** These are all stars collected from each instrument from Tier 6 songs.
+**Victory Condition:** Since RB2 doesn't exactly have a real victory condition, the one I have made up is getting a certain percentage of the Stars available from songs in Tier 6. I calculate the number of stars using a formula: `[percentage] * 72 Stars * [# of instruments]`. This scales the number of stars required to how many instruments you are playing in your seed. **This also counts achieving Gold Stars as collecting 6 Stars.** These are all stars collected from each instrument from Tier 6 songs.
 
 For example, if I wanted 50% of the stars and I was playing with all four instruments, my goal would be to collect 50% * 72 * 4 = 144 stars from Tier 6. 
 
