@@ -7,7 +7,7 @@ Implementation of Rock Band 2 into Archipelago Manual
 **Options:**
 
 - `exclude_instruments`:
-  Array of instruments to exclude. Select from ["Bass", "Drums", "Guitar", "Vocals"]. Only 2 instruments can be excluded without generation failures.
+  Array of instruments to exclude. Select from ["Bass", "Drums", "Guitar", "Vocals"]. Only 2 instruments can be excluded without generation failures, unless you start with at *least* 7 songs.
 - `starting_songs`:
   Number of Tier 0 songs to start with. Can be any value between 1 and 12 (inclusive).
 
