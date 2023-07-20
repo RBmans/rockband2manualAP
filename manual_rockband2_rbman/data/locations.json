@@ -2016,7 +2016,8 @@
 		"requires": ["Progressive Tier:6", "Souls of Black"]
 	},
 	{
-		"name": "Tier 6 - 20 FCs",
+		"name": "Star Goal Complete",
+		"category": ["Victory"],
 		"region": "Tier 6",
 		"requires": ["Progressive Tier:6"],
 		"victory": true
